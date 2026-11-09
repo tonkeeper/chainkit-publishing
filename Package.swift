@@ -1,7 +1,7 @@
 // swift-tools-version: 6.2
 //
-// ChainKit 26.11.6 (Release)
-// Built from 91f4f22e9e062550862fcd51bb22d53001fa9a33
+// ChainKit 26.11.7 (Release)
+// Built from 3c3d1242288d51cc6fda7bb0e74eaeb4da56e2d2
 // with kotlin 2.4.10 | Xcode 26.6 | iOS SDK 26.5 | wallet-core 4.8.3
 
 import PackageDescription
@@ -25,8 +25,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ChainKit",
-            url: "https://github.com/tonkeeper/chainkit-publishing/releases/download/26.11.6/ChainKit.xcframework.zip",
-            checksum: "3ca6d3a56fdb9e9743fbf71044014ebf8a9bc139332da4fe9d4e2d9579e2dbf9"
+            url: "https://github.com/tonkeeper/chainkit-publishing/releases/download/26.11.7/ChainKit.xcframework.zip",
+            checksum: "868229e3d9aa3434a5752c55d72a39078dfe9c4a15ed572caa72ca0559fb0682"
         ),
         .binaryTarget(
             name: "WalletCore",
